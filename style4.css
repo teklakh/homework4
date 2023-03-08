@@ -1,0 +1,45 @@
+.h2{
+    width: 289px;
+    height: 54px;
+    margin-left: 583px;
+    margin-top: 328px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    color: #4b4b4b;
+}
+
+.h3{
+    width: 178px;
+    height: 41px;
+    margin-left: 578px;
+    margin-top: -40px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    color: #737373;
+}
+
+.container{
+    box-sizing: border-box;
+    width: 366px;
+    height: 420px;
+    margin-top: -150px;
+    margin-left: 580px;
+    background-color: #faf4ef;
+    border-radius: 0px 0px 0px 50px;
+}
+
+img{
+    width: 231px;
+    height: 285px;
+    margin-left: 70px;
+    margin-top: 170px;
+}
+
